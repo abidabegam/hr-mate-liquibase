@@ -1,0 +1,3 @@
+
+# Ignore local jars
+lib/*.jar
